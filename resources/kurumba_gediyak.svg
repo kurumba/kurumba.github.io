@@ -3,10 +3,9 @@
               "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
 
 <svg xmlns="http://www.w3.org/2000/svg"
-     width="20.0278in" height="24.125in"
+     width="500px" height="500px"
      viewBox="0 0 1442 1737">
   <path id="Gediyak"
-        class="kurumba-path"
         fill="none" stroke="black" stroke-width="1"
         d="M 657.00,1679.91
            C 651.00,1673.73 651.00,1662.27 657.73,1657.91

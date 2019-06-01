@@ -1,3 +1,5 @@
+/************** SECTION: Welcome ************/
+
 .orb{
     background-color:green;
     opacity: 0.3;
@@ -13,8 +15,8 @@
     position: absolute;
     left: 0px;
     right: 0px;
-    width: 100vw !important;
-    height: 100% !important;
+    width: 100% !important;
+    height: calc(93vh + 51px) !important;
     overflow: hidden !important;
 }
 
@@ -28,3 +30,72 @@
 .welcome-text-top{
     font-weight: 89;
 }
+
+/********************************************/
+
+/************** SECTION: Intro ************/
+
+.section-intro{
+    height: 100vh;
+    text-align: center;
+    background-color: #eee;
+    overflow: hidden;
+}
+
+.kurumba-path{
+    stroke-width: 15px;
+    stroke: green;
+    stroke-opacity: 0.3;
+}
+
+.intro-kurumba-1{
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    left: -50px;
+    top: -50px;
+    transform: rotate(35deg);
+    transform-origin: 50% 50%;
+}
+
+.intro-kurumba-2{
+    width: 400px;
+    height: 400px;
+    position: absolute;
+    left: calc(100vw - 350px);
+    top: 350px;
+    transform: rotate(-20deg);
+    transform-origin: 50% 50%;
+}
+
+.intro-kurumba-3{
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    left: 120px;
+    top: 550px;
+    transform: rotate(20deg);
+    transform-origin: 50% 50%;
+}
+
+.intro-kurumba-4{
+    width: 260px;
+    height: 260px;
+    position: absolute;
+    left: calc(80vw - 350px);
+    top: -120px;
+    transform: rotate(-33deg);
+    transform-origin: 50% 50%;
+}
+
+.intro-content{
+    position: relative;
+    top: calc(100vh - 60%);
+    padding: 0 40px 0 40px;
+}
+
+.intro-text-main{
+    font-size: 5vmin;
+    line-height: 7vmin;
+}
+/********************************************/
