@@ -49,41 +49,41 @@
 }
 
 .intro-kurumba-1{
-    width: 300px;
-    height: 300px;
+    width: 32vmax;
+    height: 32vmax;
     position: absolute;
-    left: -50px;
-    top: -50px;
+    left: -6vw;
+    top: -7vmax;
     transform: rotate(35deg);
     transform-origin: 50% 50%;
 }
 
 .intro-kurumba-2{
-    width: 400px;
-    height: 400px;
+    width: 29vmax;
+    height: 29vmax;
     position: absolute;
-    left: calc(100vw - 350px);
-    top: 350px;
+    left: 75vw;
+    top: 52vh;
     transform: rotate(-20deg);
     transform-origin: 50% 50%;
 }
 
 .intro-kurumba-3{
-    width: 200px;
-    height: 200px;
+    width: 26vmax;
+    height: 26vmax;
     position: absolute;
-    left: 120px;
-    top: 550px;
+    left: 12vw;
+    top: 80vh;
     transform: rotate(20deg);
     transform-origin: 50% 50%;
 }
 
 .intro-kurumba-4{
-    width: 260px;
-    height: 260px;
+    width: 23vmax;
+    height: 23vmax;
     position: absolute;
-    left: calc(80vw - 350px);
-    top: -120px;
+    left: 55vw;
+    top: -20vh;
     transform: rotate(-33deg);
     transform-origin: 50% 50%;
 }
