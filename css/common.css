@@ -1,0 +1,25 @@
+.nav-padding{
+    padding: 8px 0 8px 0;
+}
+
+.branding-font{
+    font-family: 'Muli', sans-serif;
+}
+
+.branding{
+    font-size: 13px;
+    line-height: 13px; 
+}
+
+.branding-bold{
+    font-weight: bold;
+}
+
+.branding-section{
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.branding-img{
+    vertical-align: middle;
+}

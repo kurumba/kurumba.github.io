@@ -1,0 +1,30 @@
+.orb{
+    background-color:green;
+    opacity: 0.3;
+    width: 1px;
+    height: 1px;
+    border-radius: 0.5px;
+    position: absolute;
+    top: calc(50vh - 0.05px);
+    left: calc(50vw - 0.05px);
+}
+.anim_container{
+    margin: 0px;
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    width: 100vw !important;
+    height: 90% !important;
+    overflow: hidden !important;
+}
+
+.section-welcome{
+    height: 90vh;
+    text-align: center;
+    font-size: 10vmin;
+    line-height: 10vmin;
+}
+
+.welcome-text-top{
+    font-weight: 89;
+}
