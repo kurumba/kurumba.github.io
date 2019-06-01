@@ -14,12 +14,12 @@
     left: 0px;
     right: 0px;
     width: 100vw !important;
-    height: 90% !important;
+    height: 100% !important;
     overflow: hidden !important;
 }
 
 .section-welcome{
-    height: 90vh;
+    height: 93vh;
     text-align: center;
     font-size: 10vmin;
     line-height: 10vmin;
